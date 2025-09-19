@@ -1,4 +1,4 @@
-General overview notes on main features of SPI OLED_S7789 screen with pins.
+General overview notes on main features of SPI OLED_S7789 screen with pins. Updates will be written as I sort out my messy handwritten notes XP
 
 ## ST7789 OLED Display Notes
 #### Overview
