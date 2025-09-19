@@ -1,3 +1,5 @@
+General overview notes on main features of SPI OLED_S7789 screen with pins.
+
 ## ST7789 OLED Display Notes
 #### Overview
 - Pixel Dimensions: 135x240
